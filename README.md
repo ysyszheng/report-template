@@ -25,7 +25,7 @@ TODO
 - [x] 特殊符号
 - [ ] 其他功能(待补充)
 
-Pull Requests
+PR
 -------------
 Pull requests are welcome!
 
