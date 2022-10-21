@@ -13,7 +13,7 @@ Usage
 ------
 [模板预览](https://ysyszheng.github.io/report-template/main.pdf).
 
-1. 安装texlive, 以及ctex套件(或使用overleaf)
+1. 安装texlive, 以及ctex套件(或使用[overleaf](https://www.overleaf.com/))
 2. - 普通用户: 直接修改[main.tex](./main.tex)文件, 然后编译即可.
    - 开发者: 修改[main.tex](./main.tex)文件, 然后编译即可. 也可以修改[report.sty](./report.sty)与[header.tex](./header.tex)文件, 然后编译.
 
@@ -24,5 +24,9 @@ TODO
 - [x] 超链接样式
 - [x] 特殊符号
 - [ ] 其他功能(待补充)
+
+Pull Requests
+-------------
+Pull requests are welcome!
 
 Happy Coding!
