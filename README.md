@@ -5,9 +5,9 @@ This is a simple latex report template. It is based on the [ctexart](http://www.
 
 Motivation
 ----------
-经常需要用latex写report, 但是每次都要重新写一遍模板, 比较繁琐. 于是写了这个模板, 可以直接使用.
+经常需要用latex写report, 但是每次都要重新修改导言区(requirepackage, setup, define, balabala...), 比较繁琐. 于是写了这个模板, 便于重用.
 
-为什么不使用现有的轮子: 写report只需要简单的排版, 但是现有的模板大多很复杂, 有些功能不需要, 反而会增加时间成本. 我喜欢简洁:D
+为什么不使用现有的模板: 写report只需要简单的排版, 但是现有的模板大多很复杂, 有些功能不需要, 反而会增加时间成本. 我喜欢简洁:D
 
 Usage
 ------
