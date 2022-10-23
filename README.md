@@ -15,7 +15,7 @@ Usage
 
 1. Install texlive, and the ctex suite (or use [overleaf](https://www.overleaf.com/))
 2. - Ordinary users: directly modify the [main.tex](./main.tex) file, and then compile it.
-   - Developer: Modify the [main.tex](./main.tex) file, and then compile. You can also modify [report.sty](./report.sty) and [header.tex](./header. tex) file, and then compile.
+   - Developer: Modify the [main.tex](./main.tex) file, and then compile. You can also modify [report.sty](./report.sty) and [header.tex](./header.tex) file, and then compile.
 
 TODO
 -----
