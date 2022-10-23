@@ -23,7 +23,10 @@ TODO
 - [x] long table rotation
 - [x] hyperlink styles
 - [x] special symbol
+- [ ] algorithm
 - [ ] Other functions (to be added)
+
+*In order to keep the template simple and easy to use, I will ***never*** add any complex functions to it.*
 
 PR
 -------------
