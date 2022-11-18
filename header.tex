@@ -1,20 +1,28 @@
+% 页眉页脚
+\pagestyle{fancy}
+\fancyhead[L]{\lheader}
+\fancyhead[R]{\rheader}
+\fancyfoot[C]{\thepage}
+% 标题
 \title{
+    \sffamily
     \vspace{-2cm}
     \hrule  height 2pt \relax
     \vspace{.5cm}
-    {\color{DarkRed}
+    {
+    % \color{DarkRed}
     \heiti{\huge \mytitle}\\
     \mysubtitle
     }
     \vspace{.5cm}
     \hrule height 1pt \relax
     }
-
+% 作者
 \author{\name\\
     \sno\\
     \institution\\
     \color{DarkRed}
     \href{mailto:\email}{\fontfamily{qcr}\selectfont\email}
     }
-
+% 日期
 \date{\today}

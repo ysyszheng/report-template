@@ -2,29 +2,30 @@
 % Yusen Zheng
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesPackage{report}
-
+% 字体
 \RequirePackage[T1]{fontenc}
-
+% 特殊符号
 \RequirePackage{bbding}
 \RequirePackage{fontawesome}
-
+% 页眉页脚
+\RequirePackage{fancyhdr}
+% 图表
 \RequirePackage{float}
 \RequirePackage{graphicx}
-
 \RequirePackage{booktabs}
 \RequirePackage{multirow}
 \RequirePackage{rotating}
-
+% 数学公式
 \RequirePackage{amsmath}
-
+% 附录
 \RequirePackage{appendix}
-
+% 颜色
 \RequirePackage[svgnames]{xcolor}
 \definecolor{codegreen}{rgb}{0,0.6,0}
 \definecolor{codegray}{rgb}{0.5,0.5,0.5}
 \definecolor{codepurple}{rgb}{0.58,0,0.82}
 \definecolor{backcolour}{rgb}{0.95,0.95,0.92}
-
+% 超链接
 \RequirePackage{hyperref}
 \hypersetup{
     colorlinks=true,
@@ -34,7 +35,7 @@
     pdftitle={Overleaf Example},
     pdfpagemode=FullScreen,
     }
-
+% 代码
 \RequirePackage{listings}
 \lstdefinestyle{mystyle}{
     backgroundcolor=\color{backcolour},   
