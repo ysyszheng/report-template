@@ -26,9 +26,3 @@ TODO
 - [ ] algorithm
 - [ ] abstract & keywords
 - [ ] Other functions (to be added)
-
-*In order to keep the template simple and easy to use, I will ***never*** add any complex functions to it.*
-
-PR
--------------
-Pull requests are welcome! Happy Coding!
